@@ -5,6 +5,9 @@ date: "15/2/2019"
 output: 
   html_document:
     theme: united
+    toc: true 
+    toc_depth: 3 
+    toc_float: true
 
 ---
 
