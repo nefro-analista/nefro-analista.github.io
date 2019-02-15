@@ -1,8 +1,10 @@
 ---
-title: "Andres UB's Personal website"
+title: "My website"
 author: "Andres UB"
 date: "15/2/2019"
-output: html_document
+output: 
+  html_document:
+    theme: united
 
 ---
 
@@ -16,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Mi nombre es Andres, soy médico de profesión, realizando mi especialización en el área de la nefrología. Además de ello estoy aprendiendo sobre R, ya que deseo utilizar las herramientas que este lenguaje provee para poder mejorar mis habilidades estadísticas e investigadoras.
 
 **[ENG]**
-My name is Andres, I'm a MD, currently doing a nephrology fellowship. Besides I'm learning R, because I intend to use it to improve my statisticals and research skills.
+My name is Andres, I'm a MD, currently doing a nephrology fellowship. Besides I'm learning R, because I intend to use it to improve my statistical and research skills.
 
 ## Intereses / Interest
 
