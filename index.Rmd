@@ -1,0 +1,64 @@
+---
+title: "Andres UB's Personal website"
+author: "Andres UB"
+date: "15/2/2019"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Acerca de mi / About me
+
+**[ESP]**
+Mi nombre es Andres, soy médico de profesión, realizando mi especialización en el área de la nefrología. Además de ello estoy aprendiendo sobre R, ya que deseo utilizar las herramientas que este lenguaje provee para poder mejorar mis habilidades estadísticas e investigadoras.
+
+**[ENG]**
+My name is Andres, I'm a MD, currently doing a nephrology fellowship. Besides I'm learning R, because I intend to use it to improve my statisticals and research skills.
+
+## Intereses / Interest
+
+**[ESP]**
+
+* Nefrología
+* Ciencia de datos
+* Machine learning
+* Programación
+* Videojuegos
+
+**[ENG]**
+
+* Nephrology
+* Data Science
+* Machine learning
+* Programming
+* Videogames
+
+## Proyectos / Projects
+
+**[ESP]**
+
+* Programa de doctorado
+* Aprender R: 
+  - Programa: Chromebook Data Science
+  - Curso de Ciencia de Datos de Datacamp
+  
+**[ENG]**
+
+* Doctorate program
+* Learning R: 
+  - Chromebook Data Science program
+  - Datacamp Data science course track
+  
+  
+## Contacto / Contact
+
+**[ESP]**
+Puedes contactarme en el siguiente correo:
+nefro.analista@gmail.com
+
+**[ENG]**
+You can contact me at:
+nefro.analista@gmail.com
